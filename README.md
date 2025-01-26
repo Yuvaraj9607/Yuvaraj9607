@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yuvaraj9607
+- 👋 Hi, I’m Yuvaraj
 - 👀 I’m interested in Cloud and DevOps
 - 🌱 I’m currently learning Ansible
 - 📫 How to reach me @ yuvi9607@gmail.com 
