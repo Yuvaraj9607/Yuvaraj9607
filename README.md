@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuvaraj
 - 👀 I’m interested in Cloud and DevOps
-- 🌱 I’m currently learning Ansible
+- 🌱 I’m currently learning ArgoCD
 - 📫 How to reach me @ yuvi9607@gmail.com 
 
 <!---
